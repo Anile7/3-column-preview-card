@@ -1,0 +1,94 @@
+body {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Lexend Deca', sans-serif;
+}
+
+.cards {
+  display: flex;
+  max-width: 550px;
+  border-radius: 10px;
+  overflow: hidden;
+  margin: 40px;
+}
+
+.card-1, .card-2, .card-3 {
+  flex:1;
+  color: white;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+}
+.card-1 {
+  background-color: hsl(31, 77%, 52%);
+}
+
+.card-logo {
+  width: 40px;
+}
+
+.card-title {
+  font-family: 'Big Shoulders Display', sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.card-info {
+  font-size: 10px;
+  margin-bottom: 50px;
+  line-height: 16px;
+}
+
+.learn-more-1, .learn-more-2, .learn-more-3 {
+  font-size: 10px;
+  font-weight: bold;
+  border: 2px solid transparent;
+  border-radius: 20px;
+  width: 100px;
+  padding: 10px 11px;
+  cursor: pointer;
+}
+.learn-more-1 {
+  color: hsl(31, 77%, 52%);
+}
+
+
+.card-2 {
+  background-color: hsl(184, 100%, 22%);
+}
+
+.learn-more-2 {
+    color: hsl(184, 100%, 22%);
+}
+
+.card-3 {
+  background-color: hsl(179, 100%, 13%);
+}
+
+.learn-more-3 {
+  color: hsl(179, 100%, 13%);
+}
+
+button:hover {
+  background-color: transparent;
+  color: white;
+  border: 2px solid white;
+  transition: background-color 0.2s, color 0.2s;
+}
+
+@media (max-width: 600px) {
+  body {
+    height: auto;
+  }
+  
+  .cards {
+    flex-direction: column;
+    max-width: 200px;
+  }
+
+  .card-info {
+    margin-bottom: 20px;
+  }
+}
