@@ -39,6 +39,7 @@ body {
   font-size: 10px;
   margin-bottom: 50px;
   line-height: 16px;
+  color: #ededed;
 }
 
 .learn-more-1, .learn-more-2, .learn-more-3 {
@@ -47,7 +48,7 @@ body {
   border: 2px solid transparent;
   border-radius: 20px;
   width: 100px;
-  padding: 10px 11px;
+  padding: 11px 11px;
   cursor: pointer;
 }
 .learn-more-1 {
@@ -85,10 +86,29 @@ button:hover {
   
   .cards {
     flex-direction: column;
-    max-width: 200px;
+    max-width: 90%;
+  }
+  .card-1, .card-2, .card-3 {
+    padding: 60px;
+  }
+
+  .card-logo {
+    width: 90px;
+  }
+  .card-title {
+    font-size: 45px;
   }
 
   .card-info {
-    margin-bottom: 20px;
+    margin-bottom: 40px;
+    font-size: 24px;
+    line-height: 30px;
+  }
+  
+  .learn-more-1, .learn-more-2, .learn-more-3 {
+    font-size: 24px;
+    width: 200px;
+    border-radius: 30px;
+    padding: 15px;
   }
 }
