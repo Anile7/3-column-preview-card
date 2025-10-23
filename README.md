@@ -14,7 +14,9 @@ Live demo:
 [View Demo](https://anile7.github.io/3-column-preview-card/)
 
 <p>Screenshots:</p> 
-<img src="images/screenshot.png" alt="Desktop Screenshot" width="700">
+<p>Desktop view:</p>
+<img src="images/screenshot.png" alt="Desktop Screenshot" width="750">
+<p>Mobile view:</p>
 <img src="images/mobile-screenshot.jpg" alt="Mobile Screenshot" width="200">
 
 Features ✨
