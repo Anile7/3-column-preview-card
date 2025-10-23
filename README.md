@@ -15,7 +15,7 @@ Live demo:
 
 <p>Screenshots:</p> 
 <p>Desktop view:</p>
-<img src="images/screenshot.png" alt="Desktop Screenshot" width="750">
+<img src="images/screenshot.png" alt="Desktop Screenshot">
 <p>Mobile view:</p>
 <img src="images/mobile-screenshot.jpg" alt="Mobile Screenshot" width="200">
 
