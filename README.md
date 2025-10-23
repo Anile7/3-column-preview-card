@@ -16,10 +16,10 @@ Live demo:
 Screenshot: 
 
 Desktop view
-![Desktop Screenshot](images/screenshot.png)
+<img src="images/screenshot.png" alt="Desktop Screenshot" width="600">
 
 Mobile view
-![Mobile Screenshot](images/mobile-screenshot.jpg)
+<img src="images/mobile-screenshot.jpg" alt="Mobile Screenshot" width="300">
 
 Features ✨
 - Responsive design for desktop and mobile
