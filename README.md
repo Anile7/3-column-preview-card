@@ -28,4 +28,4 @@ Technologies 🛠️
 - Google Fonts
 
 Acknowledgements 🙏
-- This design is inspired by a challenge from Frontend Mentor.
+- This design is inspired by a challenge from [Frontend Mentor.](https://www.frontendmentor.io/)
