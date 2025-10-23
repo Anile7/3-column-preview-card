@@ -13,8 +13,8 @@ Demo 🎬
 Live demo: 
 [View Demo](https://anile7.github.io/3-column-preview-card/)
 
-Screenshots: 
-<img src="images/screenshot.png" alt="Desktop Screenshot" width="650">
+<p>Screenshots:</p> 
+<img src="images/screenshot.png" alt="Desktop Screenshot" width="700">
 <img src="images/mobile-screenshot.jpg" alt="Mobile Screenshot" width="200">
 
 Features ✨
