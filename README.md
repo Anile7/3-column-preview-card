@@ -17,7 +17,8 @@ Perfect for portfolios or as a reusable component for service/product cards.
 Live demo: 
 [View Demo](https://anile7.github.io/3-column-preview-card/)
 
-<p>Screenshots:</p> 
+# Screenshot 🖼
+
 <p>Desktop view:</p>
 <img src="images/screenshot.png" alt="Desktop Screenshot">
 <p>Mobile view:</p>
