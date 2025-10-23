@@ -14,7 +14,12 @@ Live demo:
 [View Demo](https://anile7.github.io/3-column-preview-card/)
 
 Screenshot: 
-![Product Preview Card](images/screenshot.png)
+
+Desktop view
+![Desktop Screenshot](images/screenshot.png)
+
+Mobile view
+![Mobile Screenshot](images/mobile-screenshot.jpg)
 
 Features ✨
 - Responsive design for desktop and mobile
